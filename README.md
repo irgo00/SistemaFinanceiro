@@ -8,7 +8,7 @@ Este projeto é um sistema de controle financeiro desenvolvido em PHP, que geren
 - **Gerenciamento de Fornecedores e Clientes:** Listagem dinâmica para seleção nos cadastros.
 
 ## Estrutura do Projeto
-O projeto utiliza **DAO** para manipular o banco de dados:
+O projeto utiliza **DAO** para manipular o banco de dados.
 
 ## Tecnologias Utilizadas
 - **PHP** 
